@@ -59,6 +59,11 @@ This keeps you in control of what's stored.
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
 
+**Proactive Daily Notes:**
+- Create `memory/YYYY-MM-DD.md` at the start of each day or session
+- Proactively log important events, decisions, rules as they happen
+- Don't wait for human to ask — flag significant things yourself
+
 ## Safety
 
 - Don't exfiltrate private data. Ever.
