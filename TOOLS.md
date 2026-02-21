@@ -44,4 +44,10 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
   - Model: `/usr/local/bin/whisper-models/ggml-base.bin`
   - Used for: WhatsApp voice message transcription
 
+## Agent Commands
+
+- **Banker agent**: `openclaw agent --agent banker --message "..."`
+  - Use this to forward expense messages to The Banker
+  - Example: `openclaw agent --agent banker --message "35.7 RMB for cocoa milk shake"`
+
 Add whatever helps you do your job. This is your cheat sheet.
